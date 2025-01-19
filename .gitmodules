@@ -16,3 +16,12 @@
 [submodule ".modules/php_url"]
 	path = .modules/php_url
 	url = https://github.com/liledix4/php_url
+[submodule ".modules/php_database"]
+	path = .modules/php_database
+	url = https://github.com/liledix4/php_database
+[submodule ".modules/php_secure"]
+	path = .modules/php_secure
+	url = https://github.com/liledix4/php_secure
+[submodule ".modules/php_config"]
+	path = .modules/php_config
+	url = https://github.com/liledix4/php_config
